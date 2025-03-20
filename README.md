@@ -1,4 +1,5 @@
-# Recipt-makerPrintable Receipt Maker is a simple and efficient web-based tool built using HTML, CSS, and JavaScript. It allows users to generate customized receipts by entering details such as item names, prices. The receipt is dynamically calculated and formatted for easy printing.
+# Recipt-maker
+Receipt Maker is a simple and efficient web-based tool built using HTML, CSS, and JavaScript. It allows users to generate customized receipts by entering details such as item names, prices. The receipt is dynamically calculated and formatted for easy printing.
 
 Features:
 
